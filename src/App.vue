@@ -1,7 +1,4 @@
-
-
 <template>
-
   <Main />
 </template>
 
@@ -9,8 +6,12 @@
 
 import Main from './components/Main.vue'
 
+
+
 </script>
 
 <style scoped>
-
+#app {
+  
+}
 </style>

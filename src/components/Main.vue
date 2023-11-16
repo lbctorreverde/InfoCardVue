@@ -6,7 +6,7 @@
                 <img src="../assets/yes.jpg" alt="Picture" class="dp-img rounded-full hover:shadow-lg duration-700">
             </div>
             <div class="info-wrapper">
-                <p class="text-slate-600 font-mono">Computer Science Undergrad</p>
+                <p class="text-slate-600 font-mono">B.S. Computer Science</p>
                 <h1>
                     <span class="name text-slate-800 font-semibold font-mono">Leonard Bryan</span>
                 </h1>
@@ -23,8 +23,7 @@
                 </svg>
                 <span class="tooltip-text">beesechurger#0062</span>
             </a>
-            <a href="https://steamcommunity.com/id/allyouneedtodoisstickittotheman/" class="link steam"
-                id="steam">
+            <a href="https://steamcommunity.com/id/allyouneedtodoisstickittotheman/" class="link steam" id="steam">
                 <svg xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 448 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
                     <path
@@ -57,9 +56,6 @@
 </template>
 
 <script setup>
-
-
-
 
 </script>
 
@@ -134,15 +130,15 @@
     transform: translate(-3.79rem, 1.4rem);
 }
 
-.steam>.tooltip-text{
+.steam>.tooltip-text {
     transform: translate(-2.3rem, 1rem);
 }
 
-.battlenet>.tooltip-text{
+.battlenet>.tooltip-text {
     transform: translate(-3.5rem, 1.15rem);
 }
 
-.reddit>.tooltip-text{
+.reddit>.tooltip-text {
     transform: translate(-2.3rem, 1.15rem);
 }
 
